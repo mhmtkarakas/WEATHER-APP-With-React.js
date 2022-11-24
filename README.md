@@ -2,4 +2,4 @@
 
 <p>React ile Hava Durumu uygulaması yapıldı.</p>
 
-</img src="./assets/ekranresmi.png">
+<img src="./ekranresmi.png">
