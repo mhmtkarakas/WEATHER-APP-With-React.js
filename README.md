@@ -3,4 +3,4 @@
 <p>React ile Hava Durumu uygulaması yapıldı.</p>
 
 
-![ekranr png](ekranr.png)
+<img src="./ekranresmi.png">
